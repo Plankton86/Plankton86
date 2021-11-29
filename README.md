@@ -8,4 +8,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbendot&layout=compact&theme=dracula)](https://github.com/Plankton00/Plankton00)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plankton00&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plankton86&show_icons=true&theme=radical)
